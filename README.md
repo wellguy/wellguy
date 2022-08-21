@@ -1,16 +1,17 @@
-### Hi there 👋
+![](photo.jpeg)
 
-<!--
-**wellguy/wellguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Егоров Сергей Владимирович
 
-Here are some ideas to get you started:
+## Начинающий программист JAVA.
+Высшее техническое образование.
+Закончил курсы "Java-разработчик".
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Кратко обо мне:
+* Java CORE
+* Java Spring framework
+
+Продолжаю активно изучать язык.
+<br/>
+В профессионально деятельности имел опыт имел опыт с такими языками как:
+ST, VBA, FB
+
