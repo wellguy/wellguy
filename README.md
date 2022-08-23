@@ -15,3 +15,7 @@
 В профессионально деятельности имел опыт имел опыт с такими языками как:
 ST, VBA, FB
 
+## Мои работы:
+* [Тг Бот](http://example.com/](https://github.com/wellguy/Telegram-bot-NASA-image.git "Скачивает изображения с сайт NASA")
+* [Менеджер задач](https://github.com/wellguy/coursework-java-core.git "итоговое задание курсов Нетологии Java-Разработчик")
+
