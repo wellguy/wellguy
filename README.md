@@ -19,4 +19,5 @@ ST, VBA, FB
 * [Тг Бот](https://github.com/wellguy/Telegram-bot-NASA-image.git "Скачивает изображения с сайт NASA")
 * [Менеджер задач](https://github.com/wellguy/coursework-java-core.git "итоговое задание курсов Нетологии Java-Разработчик")
 * [CSV-JSON-XML парсер](https://github.com/wellguy/HomeWork-CSV-JSON-XML.git "задание курсов Нетологии Java-Разработчик")
+* [Конвертер в текстовую графику](https://github.com/wellguy/Graph-to-Text-converter.git "задание курсов Нетологии Java-Разработчик")
 
